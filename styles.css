@@ -139,3 +139,10 @@ li {
 #slide56::after {
     visibility: hidden;
 }
+
+ul.center {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+font-size: 2rem;
+}
